@@ -1,0 +1,1 @@
+This is A demo for demonstration of the usage of Youtube Api. The key is configured in the Config class which makes the api effective. This project can be build with command "./gradlew build" under mac os.
